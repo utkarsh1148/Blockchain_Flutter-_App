@@ -24,6 +24,3 @@ Watch - `flutter packages pub run build_runner watch`
 - flutter pub get packages
 - flutter run
 
-### Smart contract
-
-Feel free to check out the smart contract used by this project [https://github.com/allanclempe/ether-wallet-contract](https://github.com/allanclempe/ether-wallet-contract)
