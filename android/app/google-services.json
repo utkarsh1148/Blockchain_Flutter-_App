@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1092456700851",
+    "firebase_url": "https://piggy-api-1.firebaseio.com",
+    "project_id": "piggy-api-1",
+    "storage_bucket": "piggy-api-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092456700851:android:26846eb65b97d2f51cc9c6",
+        "android_client_info": {
+          "package_name": "dev.clempe.etherwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092456700851-vhhq87sk1k8q06qbrs0ccuabglqrvuo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC74XtCMCPMgDgvNzvsmwn3PDaOqKnhDqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092456700851-vhhq87sk1k8q06qbrs0ccuabglqrvuo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
