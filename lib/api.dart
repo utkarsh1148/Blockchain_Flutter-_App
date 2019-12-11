@@ -17,7 +17,7 @@ class StarWarsData extends StatefulWidget {
 }
 
 class StarWarsState extends State<StarWarsData> {
-  final String url = "https://ipfs.io/ipfs/QmWxg784tG2y77qG5DmRnk621ms9RiUhHJbiB4pVwLxk7r";
+  final String url = "";
   List data;
 
   Future<String> getSWData() async {
